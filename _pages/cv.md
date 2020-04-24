@@ -19,12 +19,9 @@ Work experience
 ======
 * 2015-2017: Visiting assistant professor
   * Rochester Institute of Technology
-  # * Duties included: Tagging issues
-  # * Supervisor: Professor Git
+
 * 2014-2015: Postdoctoral research associate
   * University of Rochester
-  # * Duties included: Merging pull requests
-  # * Supervisor: Professor Hub
   
 
 Publications
