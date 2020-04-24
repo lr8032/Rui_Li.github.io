@@ -11,30 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Harbin Institute of Technology, 2003
+* M.S. in Computer Science, Tianjin University of Technology, 2006
+* Ph.D in Computing and Information Sciences, Rochester Institute of Technology, 2013 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015-2017: Visiting assistant professor
+  * Rochester Institute of Technology
+  # * Duties included: Tagging issues
+  # * Supervisor: Professor Git
+* 2014-2015: Postdoctoral research associate
+  * University of Rochester
+  # * Duties included: Merging pull requests
+  # * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
