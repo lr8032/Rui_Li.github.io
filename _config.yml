@@ -81,11 +81,14 @@ analytics:
 author:
   name             : "Rui Li"
   avatar           : "profile.png"
-  bio              : "Assistant professor,| Graduate Studies and Research,| GCCIS,| Rochester Institute of Technology"
+  bio              : "Assistant professor,"
+                     "Graduate Studies and Research,"
+                     "GCCIS,"
+                     "Rochester Institute of Technology"
   location         : "Rochester, New York"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=AHx53ngAAAAJ&hl=en"
-  email            : "rxlics.at.rit.edu"
+  email            : "rxlics@rit.edu"
   uri              :
   bitbucket        :
   codepen          :
