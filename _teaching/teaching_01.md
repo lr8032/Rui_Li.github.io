@@ -6,13 +6,4 @@ type: "Graduate course"
 venue: "RIT, GCCIS PhD program"
 date: 2016-09-06
 location: "Rochester, NY"
-# ---
-
-# Heading 1
-# ======
-
-# Heading 2
-# ======
-
-# Heading 3
-# ======
+---
