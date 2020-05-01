@@ -192,7 +192,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: pppp #posts
+      type: posts
     values:
       layout: single
       author_profile: true
