@@ -237,7 +237,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: students
+      type: talks
     values:
       layout: talk
       author_profile: true
