@@ -9,4 +9,4 @@ location: "Rochester, NY"
 ---
 
 
-[link to Google!](http://google.com)
+[course detail](https://www.rit.edu/computing/phd-computing-and-information-sciences/research/artificial-intelligence)
