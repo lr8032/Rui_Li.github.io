@@ -7,3 +7,6 @@ venue: "RIT, GCCIS PhD program"
 date: 2016-09-06
 location: "Rochester, NY"
 ---
+
+
+[link to Google!](http://google.com)
