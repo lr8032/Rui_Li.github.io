@@ -5,6 +5,6 @@ type: "Talk"
 permalink: /talks/PhD_students
 ---
 
-Kishan KC
-Mahdi Gilani
+Kishan KC,\n
+Mahdi Gilani,\n
 Chin-Yi Chu
