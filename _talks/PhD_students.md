@@ -1,5 +1,5 @@
 ---
-title: "PhD students"
+title: "Advising PhD students"
 collection: talks
 type: "Talk"
 permalink: /talks/PhD_students
