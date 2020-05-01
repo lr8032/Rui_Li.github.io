@@ -2,7 +2,7 @@
 title: "PhD students"
 collection: talks
 type: "Talk"
-permalink: /talks/PhD_students
+permalink: /talks/AdPhD_students
 ---
 
 * [Kishan KC](https://kishankc.com.np)
