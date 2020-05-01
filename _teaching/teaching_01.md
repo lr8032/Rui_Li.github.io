@@ -1,5 +1,5 @@
 ---
-title: "CISC863 Statistical Machine Learning"
+title: "CISC-863 Statistical Machine Learning"
 collection: teaching
 type: "Graduate course"
 # permalink: /teaching/2014-spring-teaching-1
