@@ -1,5 +1,5 @@
 ---
-title: "Co-advising PhD students"
+title: "PhD students (Co-advising)"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/coPhD_students
