@@ -1,6 +1,6 @@
 ---
 title: "Novel Methodology for Leveraging Metabolic Simulation to Improve Regulatory Reconstruction"
-excerpt: "Aggregate gene expressions with context-dependent topological structures of gene regulations to infer new relationships <br/><img width='400' align='center' src='/images/GRN_infer_demo.png'>"
+excerpt: "Aggregate gene expressions with context-dependent topological structures of gene regulations to infer new relationships <br/><img width='500' align='center' src='/images/GRN_infer_demo.png'>"
 collection: portfolio
 ---
 
