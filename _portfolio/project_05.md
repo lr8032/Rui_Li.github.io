@@ -11,3 +11,4 @@ Specifically, we design principled model selection methods using Bayesian nonpar
 the most plausible architectures of deep neural networks given the data, and develop efficient techniques 
 to make the use of the inference methods computationally tractable. The project develops deployable computational tools based on the proposed techniques to simulate functional 
 aspects of genes and proteins (e.g., physical or genetic interactions).
+
