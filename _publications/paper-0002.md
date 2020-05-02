@@ -1,7 +1,7 @@
 ---
 title: "Understanding Social Interpersonal Interaction via Synchronization Templates of Facial Events"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/paper-0002
 date: 2018-01-16
 venue: 'The 32nd AAAI Conference on Artificial Intelligence (AAAI 2018)'
 paperurl: 'https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17060'
