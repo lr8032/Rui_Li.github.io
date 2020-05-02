@@ -1,6 +1,6 @@
 ---
 title: "Automated Modeling of Deceptive Intent in Computer Mediated Conversations"
-excerpt: "Development and validation of a computational system that is able to automatically identify deceptive intent during computer-mediated, face-to-face communication <br/><img src='/images/demo_matrix.png'>"
+excerpt: "Development and validation of a computational system that is able to automatically identify deceptive intent during computer-mediated, face-to-face communication <br/><img width="200" src='/images/demo_matrix.png'>"
 collection: portfolio
 ---
 
