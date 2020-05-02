@@ -44,4 +44,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Serve as PI and co-PI for multiple NSF grants
