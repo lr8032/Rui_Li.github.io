@@ -1,5 +1,5 @@
 ---
-title: "Getting a Handle on Malware Detection: a Behavior-based Approach for Detecting Malware"
+title: "A Behavior-based Approach for Malware Detection"
 collection: publications
 permalink: /publication/paper-0009
 date: 2017-01-06
