@@ -1,9 +1,11 @@
 ---
-title: "Automated Malware Detection Using Artifacts in Forensic Memory Images"
+title: "An Expert-in-the-loop Paradigm for Learning Medical Image Grouping"
 collection: publications
-permalink: /publication/paper-00010
-date: 2016-05-06
-venue: '2016 IEEE International Symposium on Technologies for Homeland Security (HST 2016)'
-paperurl: 'https://ieeexplore.ieee.org/document/7568881'
-citation: 'Proceedings of 2016 IEEE International Symposium on Technologies for Homeland Security (HST 2016), 1-6, May 2016'
+permalink: /publication/paper-00011
+date: 2016-04-06
+venue: 'The 20th Pacific Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2016)'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-31753-3_38'
+citation: 'Xuan Guo, Q.~Yu, Rui Li}, C.O.~Alm and A.R.~Haake.
+        An Expert-in-the-loop Paradigm for Learning Medical Image Grouping.
+        In: Proceedings of The 20th Pacific Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2016), 477--488, April 2016.'
 ---
