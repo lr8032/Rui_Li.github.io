@@ -1,11 +1,11 @@
 ---
-title: "Human-Centric Approaches to Image Understanding and Retrieval"
+title: "A User Model to Predict Web Page Viewing Behavior"
 collection: publications
-permalink: /publication/paper-0021
-date: 2010-11-16
-venue: '2010 West New York Image Processing Workshop (WNYIPW 2010)'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/5649743'
-citation: 'Rui Li, P. Vaidyanathan, S.K. Mulpuru, C.F. Calvelli, J.B. Pelz, P. Shi, and A.R. Haake.
-        Human-Centric Approaches to Image Understanding and Retrieval.
-        In: Proceedings of 2010 West New York Image Processing Workshop (WNYIPW 2010), 62--65, November 2010.'
+permalink: /publication/paper-0022
+date: 2010-06-16
+venue: 'The 18th Intl. Conference on User Modeling, Adaptation, and Personalization (UMAP 2010)'
+paperurl: ''
+citation: 'Rui Li, E. Rozanski, and A.R. Haake.
+        A User Model to Predict Web Page Viewing Behavior.
+        In: Proceedings of The 18th Intl. Conference on User Modeling, Adaptation, and Personalization (UMAP 2010), 19--21, June 2010.'
 ---
