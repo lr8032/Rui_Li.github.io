@@ -1,7 +1,7 @@
 ---
 title: "Learning Topology-preserving Embedding for Gene Interaction Networks"
 collection: publications
-permalink: /publication/paper-00007
+permalink: /publication/paper-0007
 date: 2018-09-16
 venue: 'The 17th European Conference on Computational Biology (ECCB 2018)'
 paperurl: 'https://kishankc.com.np/publication/content/publication/kishan-2018-toplology/'
