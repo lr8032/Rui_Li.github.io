@@ -1,7 +1,7 @@
 ---
 title: "An Expert-in-the-loop Paradigm for Learning Medical Image Grouping"
 collection: publications
-permalink: /publication/paper-00011
+permalink: /publication/paper-0011
 date: 2016-04-06
 venue: 'The 20th Pacific Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2016)'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-31753-3_38'
