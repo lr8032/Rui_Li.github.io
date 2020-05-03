@@ -1,11 +1,11 @@
 ---
-title: "Annotation Schemes to Encode Domain Knowledge in Medical Narratives"
+title: "Exploring Interaction Modes for Image Retrieval"
 collection: publications
-permalink: /publication/paper-0018
-date: 2012-07-06
-venue: 'The Workshop VI on Language Annotation of the 50th Annual Meeting of the Association for Computational Linguistics (ACL 2012)'
-paperurl: 'https://dl.acm.org/citation.cfm?id=2392761'
-citation: 'Wilson McCoy, C.O. Alm, C. Calvelli, Rui Li}, J.B. Pelz, P. Shi, and A.R. Haake.
-        Annotation Schemes to Encode Domain Knowledge in Medical Narratives.
-        In: Proceedings of The Workshop VI on Language Annotation of the 50th Annual Meeting of the Association for Computational Linguistics (ACL 2012), 95--103, July 2012.'
+permalink: /publication/paper-0019
+date: 2011-05-06
+venue: 'Novel Gaze-Controlled Applications (NGCA 2011)'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/1983302.1983312'
+citation: 'Corey Engelman, Rui Li}, J. Pelz, P. Shi and A.R. Haake.
+        Exploring Interaction Modes for Image Retrieval.
+        In: Proceedings of Novel Gaze-Controlled Applications (NGCA 2011), 10--15, May 2011.'
 ---
