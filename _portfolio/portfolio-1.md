@@ -5,3 +5,5 @@ collection: portfolio
 ---
 
 A novel contextual design approach to inspection of dermatology images to discover relationships between perceptually- relevant visual content of images and users’ conceptual understanding as expressed through natural language. Analysis of users’ eye movements and verbal descriptions, together with mapping to domain medical ontologies, allows us to integrate visual data with a user-specified language model to define perceptual categories and inform image classification.
+
+[more information here](http://hccl.gccis.rit.edu/index.php/research-projects)
