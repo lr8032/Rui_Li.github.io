@@ -1,6 +1,6 @@
 ---
 title: "Human-centered Perceptual and Conceptual Classification of Biomedical Images"
-excerpt: "Understanding the capabilities of the human visual system with respect to biomedical imaging and in extracting and utilizing tacit knowledge of domain experts <div align=”center”><img width='600' src='/images/IMG_00001.jpg'></div>"
+excerpt: "Understanding the capabilities of the human visual system with respect to biomedical imaging and in extracting and utilizing tacit knowledge of domain experts <br/><div align=”center”><img width='600' src='/images/IMG_00001.jpg'></div>"
 collection: portfolio
 ---
 
