@@ -17,6 +17,9 @@ Education
 
 Work experience
 ======
+* 2017-now: Assistant professor
+  * Rochester Institute of Technology
+  
 * 2015-2017: Visiting assistant professor
   * Rochester Institute of Technology
 
