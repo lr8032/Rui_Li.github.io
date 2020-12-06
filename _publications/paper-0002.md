@@ -1,7 +1,7 @@
 ---
 title: "Histopathological distinction of non-invasive and invasive bladder cancers using machine learning approaches"
 collection: publications
-permalink: /publication/paper-0001b
+permalink: /publication/paper-0002
 date: 2020-12-06
 venue: 'BMC medical informatics and decision making'
 paperurl: 'https://link.springer.com/article/10.1186/s12911-020-01185-z'
