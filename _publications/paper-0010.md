@@ -1,7 +1,7 @@
 ---
 title: "Modeling Physicians Utterances to Explore Diagnostic Decision-making"
 collection: publications
-permalink: /publication/paper-0008
+permalink: /publication/paper-0010
 date: 2017-08-06
 venue: 'Proceedings of The 26th International Joint Conference on Artificial Intelligence (IJCAI 2017)'
 paperurl: 'https://www.ijcai.org/Proceedings/2017/517'
