@@ -1,7 +1,7 @@
 ---
 title: "Automated Malware Detection Using Artifacts in Forensic Memory Images"
 collection: publications
-permalink: /publication/paper-0010
+permalink: /publication/paper-0012
 date: 2016-05-06
 venue: '2016 IEEE International Symposium on Technologies for Homeland Security (HST 2016)'
 paperurl: 'https://ieeexplore.ieee.org/document/7568881'
