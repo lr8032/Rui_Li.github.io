@@ -1,7 +1,7 @@
 ---
 title: "Framework of a Real-Time Adaptive Hypermedia System"
 collection: publications
-permalink: /publication/paper-0023
+permalink: /publication/paper-0025
 date: 2009-07-16
 venue: 'The Workshop on Understanding the User of the 32nd Conference of ACM Special Interest Group on Information Retrieval (SIGIR 2009)'
 paperurl: 'http://ceur-ws.org/Vol-512/paper06.pdf'
