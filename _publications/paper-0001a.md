@@ -7,6 +7,6 @@ venue: 'The 34th Advances in Neural Information Processing Systems (NeurIPS 2020
 paperurl: 'https://proceedings.neurips.cc//paper/2020/file/16837163fee34175358a47e0b51485ff-Paper.pdf'
 citation: 'Ervine Zheng, Qi Yu, Rui Li, Pengcheng Shi, and Anne Haake.
         Dynamic Fusion of Eye Movement Data and Verbal Narrations in Knowledge-rich Domains.
-        In: Proceedings of The 34th Advances in Neural Information Processing Systems (NeurIPS 2020), December 2020.'
+        In: Proceedings of The 34th Advances in Neural Information Processing Systems (NeurIPS 2020).'
 ---
 
