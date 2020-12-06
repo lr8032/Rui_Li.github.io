@@ -1,7 +1,7 @@
 ---
 title: "Bayesian Methods for Radiometric Calibration in Motion Picture Encoding Workflows"
 collection: publications
-permalink: /publication/paper-0003
+permalink: /publication/paper-0005
 date: 2019-08-06
 venue: 'SMPTE Motion Imaging Journal'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8779779'
