@@ -1,7 +1,7 @@
 ---
 title: "Predicting Computer-Mediated Negotiation Outcomes based on Modeling Facial Expression Synchronization"
 collection: publications
-permalink: /publication/paper-0012
+permalink: /publication/paper-0014
 date: 2015-05-06
 venue: 'The 11th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2015)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/7163102'
