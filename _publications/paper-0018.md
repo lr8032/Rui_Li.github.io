@@ -1,7 +1,7 @@
 ---
 title: "Learning Image-Derived Eye Movement Patterns to Characterize Perceptual Expertise"
 collection: publications
-permalink: /publication/paper-0016
+permalink: /publication/paper-0018
 date: 2012-08-06
 venue: 'The 34th annual meeting of the Cognitive Science Society (CogSci 2012)'
 paperurl: 'https://escholarship.org/content/qt5k67z0n2/qt5k67z0n2.pdf'
