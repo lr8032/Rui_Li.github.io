@@ -1,7 +1,7 @@
 ---
 title: "Modeling Eye Movement Patterns to Characterize Perceptual Skill in Image-based Diagnostic Reasoning Processes"
 collection: publications
-permalink: /publication/paper-0005
+permalink: /publication/paper-0007
 date: 2016-09-06
 venue: 'Computer Vision and Image Understanding'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1077314216000734'
