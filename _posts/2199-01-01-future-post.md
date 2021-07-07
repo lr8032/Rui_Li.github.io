@@ -1,5 +1,5 @@
 ---
-title: 'Future Blog Post'
+title: 'A grant and publications'
 date: 2021-01-01
 permalink: /posts/2012/08/blog-post-4/
 tags:
