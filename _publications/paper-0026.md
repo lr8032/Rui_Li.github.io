@@ -1,7 +1,7 @@
 ---
 title: "A Human-Centered Content-Based Image Retrieval System"
 collection: publications
-permalink: /publication/paper-0022
+permalink: /publication/paper-0026
 date: 2010-11-06
 venue: '2010 Annual Symposium of The American Medical Informatics Association (AMIA 2010)'
 paperurl: ''
