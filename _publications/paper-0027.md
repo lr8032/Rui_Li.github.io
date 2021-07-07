@@ -1,7 +1,7 @@
 ---
 title: "Human-Centric Approaches to Image Understanding and Retrieval"
 collection: publications
-permalink: /publication/paper-0023
+permalink: /publication/paper-0027
 date: 2010-11-16
 venue: '2010 West New York Image Processing Workshop (WNYIPW 2010)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/5649743'
