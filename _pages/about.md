@@ -12,4 +12,4 @@ I am an assistant professor in the GCCIS PhD program at the Rochester Institute 
 
 My research interests bridge the computational, statistical, cognitive behavior and biological sciences.  
 
-<!--- I have opening for two motivated PhD students in the general areas of statistical machine learning, AI, and their applications in computational biology, medical image understanding and human visual attention. 
+# (I have opening for two motivated PhD students in the general areas of statistical machine learning, AI, and their applications in computational biology, medical image understanding and human visual attention.) 
