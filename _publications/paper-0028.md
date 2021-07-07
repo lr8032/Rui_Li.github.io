@@ -1,7 +1,7 @@
 ---
 title: "A User Model to Predict Web Page Viewing Behavior"
 collection: publications
-permalink: /publication/paper-0024
+permalink: /publication/paper-0028
 date: 2010-06-16
 venue: 'The 18th Intl. Conference on User Modeling, Adaptation, and Personalization (UMAP 2010)'
 paperurl: ''
