@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-Looking forward to the big good news in 2021!
+I did it! Now looking forward to the publication!
