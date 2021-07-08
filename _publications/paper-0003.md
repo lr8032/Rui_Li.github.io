@@ -1,4 +1,3 @@
-
 ---
 title: "TarGAN: Target-Aware Generative Adversarial Networks for Multi-modality Medical Image Translation"
 collection: publications
