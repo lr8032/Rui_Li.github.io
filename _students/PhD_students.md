@@ -10,4 +10,4 @@ This is a description of your talk, which is a markdown files that can be all ma
 
 Advising:
 
-Kishan KC, Mahdi Gilani, Chin-Yi Chu
+Paribesh Regmi, Kishan KC, Mahdi Gilani, Chin-Yi Chu
