@@ -12,7 +12,6 @@ permalink: /talks/03_coPhD_students
 * Eduardo Coelho De Lima (with Dr. Xumin Liu)
 * Deep Shankar Pandey (with Dr. Qi Yu)
 * Md Shakil Zaman (with Dr. Linwei Wang)
-* Junwen Chen (with Dr. Yu Kong)
 * Mohammed Alawad (with Dr. Linwei Wang)
 * Prashnna Kumar Gyawali (with Dr. Linwei Wang)
 * Sandesh Ghimire (with Dr. Linwei Wang)
