@@ -2,7 +2,7 @@
 title: "PhD students (Co-advising)"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/coPhD_students
+permalink: /talks/03_coPhD_students
 ---
 
 * Matthew van Niekerk (with Dr. Stefan Preble)
