@@ -5,8 +5,8 @@ type: "Talk"
 permalink: /talks/AdPhD_students
 ---
 
+* Paribesh Regmi
 * [Kishan KC](https://kishankc.com.np)
 * [Chin-Yi Chu](https://www.urmc.rochester.edu/people/23690042-chin-yi-chu)
-* Paribesh Regmi
 * Mahdi Gilany   
 
