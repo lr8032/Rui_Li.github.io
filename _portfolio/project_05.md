@@ -1,6 +1,6 @@
 ---
 title: "A Scalable Probabilistic Model Selection Method for Deep Learning in Gene-Protein Network Inference and Integration"
-excerpt: "a novel model selection method to automate choice of deep neural network architectures <br/><img align='center' width='400' src='/images/dnn_net.png'>"
+excerpt: "a novel model selection method to automate choice of deep neural network architectures <br/><img align='center' width='400' src='/images/Joint_infer.png'>"
 collection: portfolio
 ---
 
