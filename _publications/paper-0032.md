@@ -5,7 +5,7 @@ permalink: /publication/paper-0032
 date: 2021-12-16
 venue: 'The 35th Advances in Neural Information Processing Systems (NeurIPS 2021)'
 paperurl: ''
-citation: 'K. KC, Rui Li, and Mahdi Gilany.
+citation: 'K. KC, Rui Li, and M. Gilany.
         Joint Inference for Neural Network Depth and Dropout Regularization.
         In: Proceedings of The 35th Advances in Neural Information Processing Systems (NeurIPS 2021).'
 ---
