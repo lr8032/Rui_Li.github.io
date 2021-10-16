@@ -5,6 +5,9 @@ type: "Conference proceedings talk"
 permalink: /talks/coPhD_students
 ---
 
+* Matthew van Niekerk (with Dr. Stefan Preble)
+* Weishi Shi (with Dr. Qi Yu)
+* Wilson Cueva (with Dr. Pengcheng Shi)
 * Manoj Acharya (with Dr. Christopher Kanan)
 * Eduardo Coelho De Lima (with Dr. Xumin Liu)
 * Deep Shankar Pandey (with Dr. Qi Yu)
