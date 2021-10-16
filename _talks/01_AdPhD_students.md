@@ -2,7 +2,7 @@
 title: "PhD students"
 collection: talks
 type: "Talk"
-permalink: /talks/AdPhD_students
+permalink: /talks/01_AdPhD_students
 ---
 
 * Paribesh Regmi (2021-now)
