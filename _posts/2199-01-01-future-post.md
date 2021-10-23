@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-I did it! The super cool grant! Now looking forward to the publication!
+I did it! The super cool grant! And a cornerstone publication! Now I'm looking forward to 2022!
