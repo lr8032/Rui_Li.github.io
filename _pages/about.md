@@ -12,6 +12,6 @@ I am an assistant professor in the GCCIS Graduate Studies and Research at Roches
 
 My research interests bridge the computational, statistical, cognitive behavior and biological sciences.  
 
-I have opening for one motivated PhD students in the general areas of statistical machine learning, AI, and their applications in computational biology, medical image understanding and human visual attention.
+I have opening for one motivated PhD student in the general areas of statistical machine learning, AI, and their applications in computational biology, medical image understanding and human visual attention.
 
 [//]: # (I have opening for two motivated PhD students in the general areas of statistical machine learning, AI, and their applications in computational biology, medical image understanding and human visual attention.) 
