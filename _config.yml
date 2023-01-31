@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rui Li / Lab of Use-inspired Computational Intelligence (LUCI)"
+title                    : "Rui Li / Lab for Use-inspired Computational Intelligence (LUCI)"
 title_separator          : "-"
 name                     : &name "Dr. Rui Li"
 description              : &description "Assistant professor at Rochester Institute of Technology"
