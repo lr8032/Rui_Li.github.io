@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rui Li / Lab for Use-inspired Computational Intelligence (LUCI)"
 title_separator          : "-"
 name                     : &name "Dr. Rui Li"
-description              : &description "Assistant professor at Rochester Institute of Technology"
+description              : &description "Associate professor at Rochester Institute of Technology"
 url                      : https://lr8032.github.io/Rui_Li.github.io/ # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lr8032.github.io"
@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Rui Li"
   avatar           : "7696_Li_Rui.jpg"
-  bio              : "Assistant professor,\n
-                      Graduate Studies and Research,\n
+  bio              : "Associate professor,\n
+                      PhD Program,\n
                       GCCIS,\n
                       Rochester Institute of Technology"
   location         : "Rochester, New York"
