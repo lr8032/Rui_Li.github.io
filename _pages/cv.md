@@ -11,13 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Harbin Institute of Technology, 2003
-* M.S. in Computer Science, Tianjin University of Technology, 2006
-* Ph.D in Computing and Information Sciences, Rochester Institute of Technology, 2013 
+* B.S. in Computer Science, Harbin Institute of Technology
+* M.S. in Computer Science, Tianjin University of Technology
+* Ph.D in Computing and Information Sciences, Rochester Institute of Technology
 
 Work experience
 ======
-* 2018-now: Assistant professor
+* 2024-now: Associate professor
+  * Rochester Institute of Technology
+  * 
+* 2018-2024: Assistant professor
   * Rochester Institute of Technology
   
 * 2015-2018: Visiting assistant professor
