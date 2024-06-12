@@ -19,7 +19,7 @@ Work experience
 ======
 * 2024-now: Associate professor
   * Rochester Institute of Technology
-  * 
+    
 * 2018-2024: Assistant professor
   * Rochester Institute of Technology
   
