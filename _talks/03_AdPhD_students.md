@@ -5,6 +5,7 @@ type: "Talk"
 permalink: /talks/01_AdPhD_students
 ---
 
+* Mahendra Singh Thapa (2023-now)
 * Ruochen (Sicy) Shi (2022-now)
 * Jeevan Thapa (2022-now)
 * [Paribesh Regmi](https://regmiparibesh.com.np) (2021-now)
