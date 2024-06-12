@@ -50,4 +50,4 @@ Teaching
   
 Service and leadership
 ======
-* Serve as PI and co-PI for multiple NSF grants
+* Serve as PI and co-PI for multiple NSF grants, includeing NSF CRII award, NSF CAREER award
