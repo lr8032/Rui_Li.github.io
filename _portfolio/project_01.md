@@ -1,6 +1,6 @@
 ---
 title: "Harnessing Heterogeneous Statistical Strength for Personalized Federated Learning (PFL) via Hierarchical Bayesian Inference"
-excerpt: "Hierarchical Bayesian inference framework for PFL by deriving a personalized posterior distribution over the parameters of each client’s local model <br/><img align='center' width='800' src='/images/BayesPFL.png'>"
+excerpt: "Hierarchical Bayesian inference framework for PFL by deriving a personalized posterior distribution over the parameters of each client’s local model (ICML2025) <br/><img align='center' width='800' src='/images/BayesPFL.png'>"
 collection: portfolio
 ---
 
