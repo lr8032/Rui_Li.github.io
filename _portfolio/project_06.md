@@ -1,6 +1,6 @@
 ---
 title: "Utilizing Synergy between Human and Computer Information Processing for Complex Visual Information Organization and Use"
-excerpt: "Seek innovations in extracting, understanding, and fusing tacit human domain knowledge to advance image semantics interpretation in knowledge rich domains (CVPR2013, IJCAI2017, CVIU) <br/><img align='center' width='400' src='/images/CHS_demo.png'>"
+excerpt: "Seek innovations in extracting, understanding, and fusing tacit human domain knowledge to advance image semantics interpretation in knowledge rich domains (NeurIPS2020, AAAI2021) <br/><img align='center' width='400' src='/images/CHS_demo.png'>"
 collection: portfolio
 ---
 
