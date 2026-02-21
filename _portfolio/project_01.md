@@ -1,6 +1,6 @@
 ---
 title: "An Optimal Control View of Flow-based Models: Shortcut Diffusion Training With Cumulative Consistency Loss"
-excerpt: "Formulating few-step generation as a controlled base generative proceses shows that self-consistency loss can be understood through the lens of optimal control. This perspective motivates its generalization to the proposed cumulative self-consistency loss that cumulatively penalizes misalignment along the entire trajectory. (ICLR2026) <br/><img align='center' width='800' src='/images/CSL_flow.png'>"
+excerpt: "Formulating few-step generation as a controlled base generative proceses shows that self-consistency loss can be understood through the lens of optimal control. This perspective motivates its generalization to the proposed cumulative self-consistency loss that cumulatively penalizes misalignment along the entire trajectory (ICLR2026) <br/><img align='center' width='800' src='/images/CSL_flow.png'>"
 collection: portfolio
 ---
 
