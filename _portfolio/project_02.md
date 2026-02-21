@@ -1,6 +1,6 @@
 ---
-title: "A Scalable Probabilistic Model Selection for Deep Learning (NeurIPS2021, NeurIPS2023, ICML2024"
-excerpt: "Novel model selection method to automate choice of deep neural network architectures <br/><img align='center' width='800' src='/images/Joint_infer.png'>"
+title: "A Scalable Probabilistic Model Selection for Deep Learning "
+excerpt: "Novel model selection method to automate choice of deep neural network architectures (NeurIPS2021, NeurIPS2023, ICML2024) <br/><img align='center' width='800' src='/images/Joint_infer.png'>"
 collection: portfolio
 ---
 
