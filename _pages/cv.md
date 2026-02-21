@@ -29,7 +29,15 @@ Work experience
 * 2014-2015: Postdoctoral research associate
   * University of Rochester
   
-
+Research Funding
+======
+* NIH MIRA R35 2025-2030, PI
+* NSF CAREER 2021-2026, PI
+* NSF CRII 2019-2023, PI
+* NIH R21 2024-2026, Co-PI
+* NSF OAC Core 2022-2024, Co-PI
+* NSF CHS Small 2018-2023, Co-PI
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -47,14 +55,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Serve as PI and co-PI for multiple NSF grants, includeing NSF CRII award, NSF CAREER award,
-* NIH MIRA R35 2025-2030, PI
-* NSF CAREER 2021-2026, PI
-* NSF CRII 2019-2023, PI
-* NIH R21 2024-2026, Co-PI
-* NSF OAC Core 2022-2024, Co-PI
-* NSF CHS Small 2018-2023, Co-PI
 
