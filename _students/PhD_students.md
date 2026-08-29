@@ -10,4 +10,4 @@ This is a description of your talk, which is a markdown files that can be all ma
 
 Advising:
 
-Mahendra Singh Thapa, Ruochen (Sicy) Shi, Jeevan Thapa, Paribesh Regmi, Kishan KC (graduated), Mahdi Gilani (transfered), Chin-Yi Chu
+Nishant Luitel, Mahendra Singh Thapa, Ruochen (Sicy) Shi, Jeevan Thapa, Paribesh Regmi, Kishan KC (graduated), Mahdi Gilani (transfered), Chin-Yi Chu
